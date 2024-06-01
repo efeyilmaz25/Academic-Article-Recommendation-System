@@ -34,6 +34,13 @@ from bson import Code
 
 
 
+# -------------------- Download pre-trained model.
+#fasttext.util.download_model('en', if_exists='ignore')
+#ft_model = fasttext.load_model('cc.en.300.bin')
+# -------------------- End of download part --------------------
+
+
+
 # -------------------- Authorization Types.
 users = {
     "user": {"password": "1"},
