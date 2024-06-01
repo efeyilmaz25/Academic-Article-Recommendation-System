@@ -1,0 +1,6 @@
+Requirement - 1
+The "Inspect" dataset must be present in the current directory of the project. You can access this data set at "https://github.com/LIAAD/KeywordExtractor-Datasets".
+
+Requirement - 2
+For the FastText model used in the project, you must first download this model. The relevant part of the project has been put in the comment line. When you run the project for the first time, remove the 38th and 39th lines of code from the comment line. There should be a "cc.en.300.bin" file in the current directory of your project.
+
